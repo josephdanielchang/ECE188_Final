@@ -8,7 +8,7 @@ The goal of this project is to produce a music video containing music, lyrics su
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
+The report is found in this repository: final_project_report.pdf
 
 ## Model/Data
 
